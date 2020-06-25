@@ -1,0 +1,42 @@
+[
+	{
+		"key": "dev/common/key1",
+		"flags": 0,
+		"value": "MQ=="
+	},
+	{
+		"key": "dev/common/key2",
+		"flags": 0,
+		"value": "Mg=="
+	},
+	{
+		"key": "dev/common/sample.properties",
+		"flags": 0,
+		"value": "I0NydW5jaGlmeSBQcm9wZXJ0aWVzCnVzZXI9Q3J1bmNoaWZ5CmNvbXBhbnkxPUdvb2dsZQpjb21wYW55Mj1lQmF5CmNvbXBhbnkzPVlhaG9v"
+	},
+	{
+		"key": "dev/common/sample_json",
+		"flags": 0,
+		"value": "ewogICAgImdsb3NzYXJ5IjogewogICAgICAgICJ0aXRsZSI6ICJleGFtcGxlIGdsb3NzYXJ5IiwKCQkiR2xvc3NEaXYiOiB7CiAgICAgICAgICAgICJ0aXRsZSI6ICJTIiwKCQkJIkdsb3NzTGlzdCI6IHsKICAgICAgICAgICAgICAgICJHbG9zc0VudHJ5IjogewogICAgICAgICAgICAgICAgICAgICJJRCI6ICJTR01MIiwKCQkJCQkiU29ydEFzIjogIlNHTUwiLAoJCQkJCSJHbG9zc1Rlcm0iOiAiU3RhbmRhcmQgR2VuZXJhbGl6ZWQgTWFya3VwIExhbmd1YWdlIiwKCQkJCQkiQWNyb255bSI6ICJTR01MIiwKCQkJCQkiQWJicmV2IjogIklTTyA4ODc5OjE5ODYiLAoJCQkJCSJHbG9zc0RlZiI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgInBhcmEiOiAiQSBtZXRhLW1hcmt1cCBsYW5ndWFnZSwgdXNlZCB0byBjcmVhdGUgbWFya3VwIGxhbmd1YWdlcyBzdWNoIGFzIERvY0Jvb2suIiwKCQkJCQkJIkdsb3NzU2VlQWxzbyI6IFsiR01MIiwgIlhNTCJdCiAgICAgICAgICAgICAgICAgICAgfSwKCQkJCQkiR2xvc3NTZWUiOiAibWFya3VwIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQp9"
+	},
+	{
+		"key": "dev/common/sample_yml",
+		"flags": 0,
+		"value": "LSAgbWFydGluOgogICAgbmFtZTogTWFydGluIEQndmxvcGVyCiAgICBqb2I6IERldmVsb3BlcgogICAgc2tpbGxzOgogICAgICAtIHB5dGhvbgogICAgICAtIHBlcmwKICAgICAgLSBwYXNjYWwKLSAgdGFiaXRoYToKICAgIG5hbWU6IFRhYml0aGEgQml0dW1lbgogICAgam9iOiBEZXZlbG9wZXIKICAgIHNraWxsczoKICAgICAgLSBsaXNwCiAgICAgIC0gZm9ydHJhbgogICAgICAtIGVybGFuZw=="
+	},
+	{
+		"key": "dev/component-a/key-3",
+		"flags": 0,
+		"value": "dmFsIGZvciAz"
+	},
+	{
+		"key": "dev/component-a/key1",
+		"flags": 0,
+		"value": "dmFsIDE="
+	},
+	{
+		"key": "dev/component-a/key2",
+		"flags": 0,
+		"value": "Mg=="
+	}
+]
