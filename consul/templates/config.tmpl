@@ -1,0 +1,7 @@
+{
+  "debug": {{key (print (env "ENVIRONMENT") "/common/key1")}},
+  "server": {{key (print (env "ENVIRONMENT") "/common/key2")}},
+  "request": "{{key (print (env "ENVIRONMENT") "/component-a/key1")}}",
+  "api": {{key (print (env "ENVIRONMENT") "/component-a/key2")}},
+  "health": "{{key (print (env "ENVIRONMENT") "/component-a/key-3")}}"
+}
