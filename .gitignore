@@ -6,6 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 
 tmp
+*.zip
 
 # Runtime data
 pids
